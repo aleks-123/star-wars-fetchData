@@ -1,2 +1,2 @@
-# star-wars-fetchData
+# star-wars-fetchData using ReactJS
 Learning fetching skils
